@@ -30,6 +30,5 @@ Supported:
    $ ./minishell
    ```
 
-## Game
 
   <img src="./screen/minishell_video.gif" width="500" alt="game">
